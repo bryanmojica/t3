@@ -2,6 +2,11 @@
   height: 100px;
 }
 
+div#gameBoard {
+    text-align: center;
+    font-size: 70px;
+}
+
 .row.one {
     border-bottom: 2px solid #000;
 }
