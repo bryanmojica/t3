@@ -1,0 +1,26 @@
+#gameBoard .row {
+  height: 100px;
+}
+
+.row.one {
+    border-bottom: 2px solid #000;
+}
+
+.row.two {
+    border-bottom: 2px solid #000;
+}
+
+
+.col-xs-4.one {
+    border-right: 2px solid black;
+    min-height: 100px;
+}
+
+.col-xs-4.two {
+    min-height: 100px;
+}
+
+.col-xs-4.three {
+    border-left: 2px solid black;
+    min-height: 100px;
+}
