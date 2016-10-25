@@ -41,3 +41,4 @@ var checkDiagonal = function () {
     // if number of instances === 3, endGame and increment player X win
 };
 
+// update
